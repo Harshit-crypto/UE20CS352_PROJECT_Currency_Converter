@@ -1,0 +1,8 @@
+{
+    "godot_tools.scene_file_config": "c:\\Users\\laptop\\Desktop\\ooad_proj\\Currency-Converter-Java-JavaFX-API-master\\src\\org\\smy\\currencyConverter\\view\\Window.fxml",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\laptop\\Downloads\\jar_files\\okhttp-3.9.0.jar",
+        "c:\\Users\\laptop\\Downloads\\jar_files\\okio-1.13.0.jar"
+    ]
+}
